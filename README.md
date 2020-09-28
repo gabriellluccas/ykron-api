@@ -23,7 +23,7 @@ Finalmente exacutar o comando:
  Por fim pode consumir a api por default em http://localhost:3000.
  
 # Endpoints
- Existem 6 endpoints que poderão ser consumidos:
+ Existem 7 endpoints que poderão ser consumidos:
   - GET /veiculos - busca todos os veiculos
   - GET /veiculos/find - busca veiculos de acordo com a query
   - GET /veiculos:id - busca um veiculos especifico 
